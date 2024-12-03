@@ -9,3 +9,7 @@ Install dependencies with `npm install`, then start the server by running `npm r
 ## View it live
 
 Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+
+## Promot for AI to genereta json data
+
+Can you give me a dataset in JSON format on XXX including XXX amount of elements? They all need to have a couple of different properties, like name, id and something to filter on (category, type or similar) and sort on (year, rating or similar)
